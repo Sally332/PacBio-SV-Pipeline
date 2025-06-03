@@ -1,0 +1,5 @@
+Chr	Start	End	SV_type	Gene_name	Depth	VAF	gnomAD_AF
+chr1	100000	105000	deletion	TP53	45	0.32	0.0001
+chr2	200000	205000	duplication	MYC	60	0.40	0.0005
+chr9	130000	140000	translocation	ABL1	70	0.55	NA
+chr17	760000	765000	inversion	BRCA1	38	0.25	0.001
