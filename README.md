@@ -56,3 +56,7 @@ This approach was designed for cancer‐susceptibility studies—e.g., comparing
 
 4. **Quick Start**  
 For full methods, scoring criteria, advanced usage notes (e.g. API‐skipping modes, SLURM examples, change logs), and example outputs, see [docs/README.pdf](docs/README.pdf).
+
+
+**Author:** Sally Yepes (sallyepes233@gmail.com)  
+**License:** MIT
